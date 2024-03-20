@@ -4,6 +4,9 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * 前端新增员工的提交的数据模型
+ */
 @Data
 public class EmployeeDTO implements Serializable {
 
